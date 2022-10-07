@@ -5,9 +5,18 @@
 
 #### Features tested and tried
 [**Face detection algo**]()
-> *DNN *Harr_cascade *HOG+linearSVM *cNN *MTCNN 
+> *DNN  
+> *Harr_cascade  
+> *HOG+linearSVM  
+> *cNN  
+> *MTCNN  
+
 [**Face recognization algos**]()
-> *Eigenfaces *FisherFace *FaceNET *VGGnet *LBPH
+> *Eigenfaces  
+> *FisherFace  
+> *FaceNET  
+> *VGGnet  
+> *LBPH  
 
 
 

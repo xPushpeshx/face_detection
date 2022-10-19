@@ -11,7 +11,7 @@
 > -cNN  
 > -MTCNN  
 
-[**Face recognization algos**](https://github.com/xPushpeshx/face_detection/blob/main/face_recognization.ipynb)
+[**Face recognization algos**](https://github.com/xPushpeshx/face_detection/blob/main/)
 > -Eigenfaces  
 > -FisherFace  
 > -FaceNET  
